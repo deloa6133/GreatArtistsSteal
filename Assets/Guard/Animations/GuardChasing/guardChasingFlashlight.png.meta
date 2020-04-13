@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 3bcce71f3ee99c44bbebdbbde331424a
+timeCreated: 1519354835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guardChasingFlashlight_0
+    21300002: guardChasingFlashlight_1
+    21300004: guardChasingFlashlight_2
+    21300006: guardChasingFlashlight_3
+    21300008: guardChasingFlashlight_4
+    21300010: guardChasingFlashlight_5
+    21300012: guardChasingFlashlight_6
+    21300014: guardChasingFlashlight_7
+    21300016: guardChasingFlashlight_8
+    21300018: guardChasingFlashlight_9
+    21300020: guardChasingFlashlight_10
+    21300022: guardChasingFlashlight_11
+    21300024: guardChasingFlashlight_12
+    21300026: guardChasingFlashlight_13
+    21300028: guardChasingFlashlight_14
+    21300030: guardChasingFlashlight_15
+    21300032: guardChasingFlashlight_16
+    21300034: guardChasingFlashlight_17
+    21300036: guardChasingFlashlight_18
+    21300038: guardChasingFlashlight_19
+    21300040: guardChasingFlashlight_20
+    21300042: guardChasingFlashlight_21
+    21300044: guardChasingFlashlight_22
+    21300046: guardChasingFlashlight_23
+    21300048: guardChasingFlashlight_24
+    21300050: guardChasingFlashlight_25
+    21300052: guardChasingFlashlight_26
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardChasingFlashlight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_2
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_3
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_4
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_5
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_6
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_7
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_8
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 854
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_10
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_11
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_12
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_13
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_14
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_15
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_16
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_17
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 427
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_19
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_20
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_21
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_22
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_23
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_24
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_25
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardChasingFlashlight_26
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 0
+        width: 509
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

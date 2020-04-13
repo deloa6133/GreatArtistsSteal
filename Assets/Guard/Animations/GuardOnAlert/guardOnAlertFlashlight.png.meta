@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 588e18353ea574f43b02742de8891a3a
+timeCreated: 1519354914
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guardOnAlertFlashlight_0
+    21300002: guardOnAlertFlashlight_1
+    21300004: guardOnAlertFlashlight_2
+    21300006: guardOnAlertFlashlight_3
+    21300008: guardOnAlertFlashlight_4
+    21300010: guardOnAlertFlashlight_5
+    21300012: guardOnAlertFlashlight_6
+    21300014: guardOnAlertFlashlight_7
+    21300016: guardOnAlertFlashlight_8
+    21300018: guardOnAlertFlashlight_9
+    21300020: guardOnAlertFlashlight_10
+    21300022: guardOnAlertFlashlight_11
+    21300024: guardOnAlertFlashlight_12
+    21300026: guardOnAlertFlashlight_13
+    21300028: guardOnAlertFlashlight_14
+    21300030: guardOnAlertFlashlight_15
+    21300032: guardOnAlertFlashlight_16
+    21300034: guardOnAlertFlashlight_17
+    21300036: guardOnAlertFlashlight_18
+    21300038: guardOnAlertFlashlight_19
+    21300040: guardOnAlertFlashlight_20
+    21300042: guardOnAlertFlashlight_21
+    21300044: guardOnAlertFlashlight_22
+    21300046: guardOnAlertFlashlight_23
+    21300048: guardOnAlertFlashlight_24
+    21300050: guardOnAlertFlashlight_25
+    21300052: guardOnAlertFlashlight_26
+    21300054: guardOnAlertFlashlight_27
+    21300056: guardOnAlertFlashlight_28
+    21300058: guardOnAlertFlashlight_29
+    21300060: guardOnAlertFlashlight_30
+    21300062: guardOnAlertFlashlight_31
+    21300064: guardOnAlertFlashlight_32
+    21300066: guardOnAlertFlashlight_33
+    21300068: guardOnAlertFlashlight_34
+    21300070: guardOnAlertFlashlight_35
+    21300072: guardOnAlertFlashlight_36
+    21300074: guardOnAlertFlashlight_37
+    21300076: guardOnAlertFlashlight_38
+    21300078: guardOnAlertFlashlight_39
+    21300080: guardOnAlertFlashlight_40
+    21300082: guardOnAlertFlashlight_41
+    21300084: guardOnAlertFlashlight_42
+    21300086: guardOnAlertFlashlight_43
+    21300088: guardOnAlertFlashlight_44
+    21300090: guardOnAlertFlashlight_45
+    21300092: guardOnAlertFlashlight_46
+    21300094: guardOnAlertFlashlight_47
+    21300096: guardOnAlertFlashlight_48
+    21300098: guardOnAlertFlashlight_49
+    21300100: guardOnAlertFlashlight_50
+    21300102: guardOnAlertFlashlight_51
+    21300104: guardOnAlertFlashlight_52
+    21300106: guardOnAlertFlashlight_53
+    21300108: guardOnAlertFlashlight_54
+    21300110: guardOnAlertFlashlight_55
+    21300112: guardOnAlertFlashlight_56
+    21300114: guardOnAlertFlashlight_57
+    21300116: guardOnAlertFlashlight_58
+    21300118: guardOnAlertFlashlight_59
+    21300120: guardOnAlertFlashlight_60
+    21300122: guardOnAlertFlashlight_61
+    21300124: guardOnAlertFlashlight_62
+    21300126: guardOnAlertFlashlight_63
+    21300128: guardOnAlertFlashlight_64
+    21300130: guardOnAlertFlashlight_65
+    21300132: guardOnAlertFlashlight_66
+    21300134: guardOnAlertFlashlight_67
+    21300136: guardOnAlertFlashlight_68
+    21300138: guardOnAlertFlashlight_69
+    21300140: guardOnAlertFlashlight_70
+    21300142: guardOnAlertFlashlight_71
+    21300144: guardOnAlertFlashlight_72
+    21300146: guardOnAlertFlashlight_73
+    21300148: guardOnAlertFlashlight_74
+    21300150: guardOnAlertFlashlight_75
+    21300152: guardOnAlertFlashlight_76
+    21300154: guardOnAlertFlashlight_77
+    21300156: guardOnAlertFlashlight_78
+    21300158: guardOnAlertFlashlight_79
+    21300160: guardOnAlertFlashlight_80
+    21300162: guardOnAlertFlashlight_81
+    21300164: guardOnAlertFlashlight_82
+    21300166: guardOnAlertFlashlight_83
+    21300168: guardOnAlertFlashlight_84
+    21300170: guardOnAlertFlashlight_85
+    21300172: guardOnAlertFlashlight_86
+    21300174: guardOnAlertFlashlight_87
+    21300176: guardOnAlertFlashlight_88
+    21300178: guardOnAlertFlashlight_89
+    21300180: guardOnAlertFlashlight_90
+    21300182: guardOnAlertFlashlight_91
+    21300184: guardOnAlertFlashlight_92
+    21300186: guardOnAlertFlashlight_93
+    21300188: guardOnAlertFlashlight_94
+    21300190: guardOnAlertFlashlight_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_1
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_3
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_4
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_5
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_6
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_7
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 4400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_10
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_11
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_12
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_13
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_14
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_15
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 4000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_17
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_18
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_19
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_20
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_21
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_22
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_23
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 3600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_25
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_26
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_27
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_28
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_29
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_30
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_31
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 3200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_34
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_35
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_36
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_37
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_38
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_39
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 2800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_42
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_43
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_44
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_45
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_46
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_47
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 2400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_49
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_50
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_51
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_52
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_53
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_54
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_55
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 2000
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_57
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_58
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_59
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_60
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_61
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_62
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_63
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 1600
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_65
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_66
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_67
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_68
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_69
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_70
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_71
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 1200
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_73
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_74
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_75
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_76
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_77
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_78
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_79
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 800
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_81
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_82
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_83
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_84
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_85
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_86
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_87
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 400
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_89
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_90
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_91
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_92
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_93
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_94
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardOnAlertFlashlight_95
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 0
+        width: 574
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

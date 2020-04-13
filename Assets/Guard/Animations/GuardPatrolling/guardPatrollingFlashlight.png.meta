@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 9f8ccadc26bbb604392186bc63322a26
+timeCreated: 1519354851
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guardPatrollingFlashlight_0
+    21300002: guardPatrollingFlashlight_1
+    21300004: guardPatrollingFlashlight_2
+    21300006: guardPatrollingFlashlight_3
+    21300008: guardPatrollingFlashlight_4
+    21300010: guardPatrollingFlashlight_5
+    21300012: guardPatrollingFlashlight_6
+    21300014: guardPatrollingFlashlight_7
+    21300016: guardPatrollingFlashlight_8
+    21300018: guardPatrollingFlashlight_9
+    21300020: guardPatrollingFlashlight_10
+    21300022: guardPatrollingFlashlight_11
+    21300024: guardPatrollingFlashlight_12
+    21300026: guardPatrollingFlashlight_13
+    21300028: guardPatrollingFlashlight_14
+    21300030: guardPatrollingFlashlight_15
+    21300032: guardPatrollingFlashlight_16
+    21300034: guardPatrollingFlashlight_17
+    21300036: guardPatrollingFlashlight_18
+    21300038: guardPatrollingFlashlight_19
+    21300040: guardPatrollingFlashlight_20
+    21300042: guardPatrollingFlashlight_21
+    21300044: guardPatrollingFlashlight_22
+    21300046: guardPatrollingFlashlight_23
+    21300048: guardPatrollingFlashlight_24
+    21300050: guardPatrollingFlashlight_25
+    21300052: guardPatrollingFlashlight_26
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_3
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_4
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_5
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_6
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_7
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_8
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 824
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_13
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_14
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_15
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_16
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_17
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 412
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_20
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_21
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_22
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_23
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_24
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_25
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardPatrollingFlashlight_26
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 0
+        width: 447
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

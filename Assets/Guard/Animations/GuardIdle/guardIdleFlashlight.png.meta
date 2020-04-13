@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 7fbad6bb50adc014984aa7e1964cbe3c
+timeCreated: 1519354883
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guardIdleFlashlight_0
+    21300002: guardIdleFlashlight_1
+    21300004: guardIdleFlashlight_2
+    21300006: guardIdleFlashlight_3
+    21300008: guardIdleFlashlight_4
+    21300010: guardIdleFlashlight_5
+    21300012: guardIdleFlashlight_6
+    21300014: guardIdleFlashlight_7
+    21300016: guardIdleFlashlight_8
+    21300018: guardIdleFlashlight_9
+    21300020: guardIdleFlashlight_10
+    21300022: guardIdleFlashlight_11
+    21300024: guardIdleFlashlight_12
+    21300026: guardIdleFlashlight_13
+    21300028: guardIdleFlashlight_14
+    21300030: guardIdleFlashlight_15
+    21300032: guardIdleFlashlight_16
+    21300034: guardIdleFlashlight_17
+    21300036: guardIdleFlashlight_18
+    21300038: guardIdleFlashlight_19
+    21300040: guardIdleFlashlight_20
+    21300042: guardIdleFlashlight_21
+    21300044: guardIdleFlashlight_22
+    21300046: guardIdleFlashlight_23
+    21300048: guardIdleFlashlight_24
+    21300050: guardIdleFlashlight_25
+    21300052: guardIdleFlashlight_26
+    21300054: guardIdleFlashlight_27
+    21300056: guardIdleFlashlight_28
+    21300058: guardIdleFlashlight_29
+    21300060: guardIdleFlashlight_30
+    21300062: guardIdleFlashlight_31
+    21300064: guardIdleFlashlight_32
+    21300066: guardIdleFlashlight_33
+    21300068: guardIdleFlashlight_34
+    21300070: guardIdleFlashlight_35
+    21300072: guardIdleFlashlight_36
+    21300074: guardIdleFlashlight_37
+    21300076: guardIdleFlashlight_38
+    21300078: guardIdleFlashlight_39
+    21300080: guardIdleFlashlight_40
+    21300082: guardIdleFlashlight_41
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardIdleFlashlight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1995
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1995
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1995
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1995
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1995
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_5
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1995
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1995
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1596
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1596
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_10
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1596
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_11
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1596
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_12
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1596
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_13
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1596
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1197
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1197
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1197
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1197
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_19
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1197
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_20
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1197
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 798
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 798
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_24
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 798
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 798
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 798
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_27
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 798
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 399
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 399
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_31
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 399
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 399
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_33
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 399
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_34
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 399
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_36
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_38
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_39
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_40
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guardIdleFlashlight_41
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 450
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
